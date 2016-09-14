@@ -1,0 +1,14 @@
+{
+    "name": "wajox/yii2-base-user",
+    "description": "Yii2 Base user module",
+    "type": "extension",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Ildar Usmanov",
+            "email": "wajox@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
